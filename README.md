@@ -1,85 +1,85 @@
-Ronrotich Portfolio
-Welcome to my interactive and responsive personal portfolio website! This project showcases my skills as a Full-Stack Developer, featuring my best work, technical expertise, and career background.
+Ronrotich | Portfolio Website
 
 🚀 Live Demo
-🔗 View Portfolio Here
+🔗 View Portfolio Website
 
-About Me
-Hi, I’m Ronrotich, a passionate Full-Stack Developer who enjoys building modern, user-friendly web applications. I love exploring emerging web technologies, cloud solutions, and creating smooth user journeys through great UI/UX design.
+📌 Overview
+This is my interactive and responsive personal portfolio website, built to showcase my skills, projects, and professional background as a Full-Stack Developer. The website features a clean design, smooth animations, and mobile-friendly navigation.
 
-Education:
-Bachelor’s Degree in Computer Science – Mount Kenya University
+✨ Features
+Responsive Design: Mobile-first and adaptable to all screen sizes.
 
-Core Interests:
-Interactive web development
+Glassmorphism UI Elements: Stylish and modern interface.
 
-Responsive and accessible UI/UX
+Interactive Navigation: Sticky header and toggle menu for mobile.
 
-Cloud computing & scalable backends
+Animated Project Cards: Flip-card animations for project showcases.
 
-Features
-Glassmorphism Design: Stylish section layouts with blur and transparency effects.
+Contact Form: Ready for backend integration with PHP & MySQL.
 
-Responsive Layout: Mobile-first and fully adaptive.
+Downloadable CV: Easy access to resume for recruiters.
 
-Animated Portfolio Cards: Engaging project presentations with flip card animations.
-
-Modern Navigation: Sticky header, mobile-friendly menu.
-
-Contact Form: Backend integration with PHP & MySQL for validation and storage.
-
-Highlight of Projects: Showcase of competition projects and personal work.
-
-Technologies Used
+🛠️ Technologies Used
 Frontend:
 
 HTML5
 
-CSS3 with advanced layouts and animations
+CSS3 (Animations, Flexbox, Grid)
 
-Backend:
+JavaScript (for interactivity)
+
+Backend (Optional Integration):
 
 PHP
 
-MySQL (for contact form processing)
+MySQL (for contact form data storage)
 
-Main Sections
-About Me: Introduction and professional background.
+📂 Main Sections
+About Me: Personal introduction and career summary.
 
-Portfolio: Interactive project cards displaying key projects.
+Education: Academic background with CV download link.
 
-Skills: Overview of programming languages and technologies used.
+Languages: List of programming languages & skills.
 
-Contact: Secure contact form for reaching out directly.
+Interests: Professional and tech interests.
 
-How to Use
-Clone or Download:
+Projects: Interactive portfolio of work.
 
-Download the project files or clone this repository to your local machine.
+Contact: Contact form for direct messages.
 
-Customize Content:
+⚙️ How to Use Locally
+Clone or Download Repository
 
-Edit index.html to update personal details, add/remove projects, and adjust content as needed.
+bash
+Copy
+Edit
+git clone https://github.com/ron3476/personal_portfolio.git
+Open in Browser
+Open index.html in your preferred browser.
 
-Style Adjustments:
+Customize Content
 
-Modify styles.css for theme and layout changes. All sections use CSS variables and common classes for easy updates.
+Update index.html with your personal info.
 
-Contact Form Backend:
+Edit styles.css for colors, layout, and animations.
 
-Ensure a server with PHP & MySQL support.
+Modify script.js if adding more interactive features.
 
-Update PHP script and database credentials as needed for your hosting environment.
+Enable Backend Contact Form (Optional)
 
-Preview
-Responsive Portfolio Website: Modern site with smooth animations and transitions.
+Host files on a PHP-supported server.
 
-PHP & MySQL Contact Form: Backend validation and secure data storage.
+Create a MySQL database and update PHP form processing script with credentials.
 
-Coding Competition Project: Innovative web solutions developed under pressure.
+📸 Preview
+Responsive Layout: Optimized for mobile and desktop.
 
-License
+Interactive Projects: Smooth flip-card animations.
+
+Modern UI: Minimalist, professional, and visually engaging.
+
+📜 License
 This project is for personal and portfolio use. Feel free to reference for your own learning and inspiration.
 
-Thank you for checking out my portfolio!
-If you’d like to get in touch or learn more about my work, feel free to use the contact form on the site.
+💬 Contact Me:
+You can reach me directly through the contact form on the website or via email.
