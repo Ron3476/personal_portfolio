@@ -1,7 +1,8 @@
 Ronrotich | Portfolio Website
 
-🚀 Live Demo
-🔗 View Portfolio Website
+## 🚀 Live Demo
+[**Click Here to View the Portfolio Website**](https://ron3476.github.io/personal_portfolio/)
+
 
 📌 Overview
 This is my interactive and responsive personal portfolio website, built to showcase my skills, projects, and professional background as a Full-Stack Developer. The website features a clean design, smooth animations, and mobile-friendly navigation.
