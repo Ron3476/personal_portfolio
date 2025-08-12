@@ -1,7 +1,9 @@
 Ronrotich | Portfolio Website
 
 ## 🚀 Live Demo
-[**Click Here to View the Portfolio Website**]([https://ron3476.github.io/personal_portfolio/)
+[**Click Here to View the Portfolio Website**]([https://ron3476.github.io/personal_portfolio/)## 
+🚀 Live Demo
+[**Click Here to View the Portfolio Website**](https://ron3476.github.io/personal_portfolio/)
 
 
 📌 Overview
