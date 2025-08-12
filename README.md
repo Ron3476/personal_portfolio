@@ -1,73 +1,85 @@
-# Ronrotich | Portfolio Website
+Ronrotich Portfolio
+Welcome to my interactive and responsive personal portfolio website! This project showcases my skills as a Full-Stack Developer, featuring my best work, technical expertise, and career background.
 
-## 📌 Overview
-This is a **personal portfolio website** for **Ronrotich**, a passionate Full-Stack Developer.  
-The website showcases skills, educational background, projects, and contact details in a **modern, responsive, and user-friendly design**.
+🚀 Live Demo
+🔗 View Portfolio Here
 
-## 🎯 Features
-- **Responsive Navigation Menu** with mobile toggle
-- **About Section** introducing the developer
-- **Educational Background** with downloadable CV
-- **Programming Languages** displayed in a visually appealing list
-- **Interests Section** describing key passions
-- **Projects Showcase** with flip-card animations
-- **Contact Form** for easy communication
-- **Footer** with copyright
+About Me
+Hi, I’m Ronrotich, a passionate Full-Stack Developer who enjoys building modern, user-friendly web applications. I love exploring emerging web technologies, cloud solutions, and creating smooth user journeys through great UI/UX design.
 
-## 🛠️ Technologies Used
-- **HTML5** – Structure
-- **CSS3** – Styling & responsiveness
-- 
+Education:
+Bachelor’s Degree in Computer Science – Mount Kenya University
 
-## 📂 Project Structure
-📁 Portfolio-Website
-├── index.html # Main HTML file
-├── styles.css # Stylesheet
-├── ron.jpg # Profile picture
-├── Tech_CV_Ronald_Kiprotich.docx # Downloadable CV
-└── README.md # Documentation
+Core Interests:
+Interactive web development
 
+Responsive and accessible UI/UX
 
-## 🚀 Getting Started
+Cloud computing & scalable backends
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Ron3476/portfolio-website.git
-cd portfolio-website
+Features
+Glassmorphism Design: Stylish section layouts with blur and transparency effects.
 
-2️⃣ Open in Browser
-Simply open index.html in your preferred browser.
+Responsive Layout: Mobile-first and fully adaptive.
 
-3️⃣ Run with Live Server (Optional)
-If you have VS Code Live Server:
+Animated Portfolio Cards: Engaging project presentations with flip card animations.
 
-Right-click index.html
+Modern Navigation: Sticky header, mobile-friendly menu.
 
-Select "Open with Live Server"
+Contact Form: Backend integration with PHP & MySQL for validation and storage.
 
-📸 Sections Preview
-About Me – Introduction and profile image
+Highlight of Projects: Showcase of competition projects and personal work.
 
-Educational Background – Degree info + CV download link
+Technologies Used
+Frontend:
 
-Programming Languages – HTML, CSS, JavaScript, PHP, MySQL
+HTML5
 
-Interests – Areas of passion
+CSS3 with advanced layouts and animations
 
-Projects – Interactive project cards
+Backend:
 
-Contact Me – Form for direct messages
+PHP
 
-✨ Customization
-Replace ron.jpg with your own profile image
+MySQL (for contact form processing)
 
-Update text content in index.html
+Main Sections
+About Me: Introduction and professional background.
 
-Modify colors, fonts, and animations in styles.css
+Portfolio: Interactive project cards displaying key projects.
 
-Add your own projects in the Projects Section
+Skills: Overview of programming languages and technologies used.
 
-📬 Contact
-For inquiries, reach out via the contact form on the website or email directly.
+Contact: Secure contact form for reaching out directly.
 
-© 2025 Ronrotich. All rights reserved.
+How to Use
+Clone or Download:
+
+Download the project files or clone this repository to your local machine.
+
+Customize Content:
+
+Edit index.html to update personal details, add/remove projects, and adjust content as needed.
+
+Style Adjustments:
+
+Modify styles.css for theme and layout changes. All sections use CSS variables and common classes for easy updates.
+
+Contact Form Backend:
+
+Ensure a server with PHP & MySQL support.
+
+Update PHP script and database credentials as needed for your hosting environment.
+
+Preview
+Responsive Portfolio Website: Modern site with smooth animations and transitions.
+
+PHP & MySQL Contact Form: Backend validation and secure data storage.
+
+Coding Competition Project: Innovative web solutions developed under pressure.
+
+License
+This project is for personal and portfolio use. Feel free to reference for your own learning and inspiration.
+
+Thank you for checking out my portfolio!
+If you’d like to get in touch or learn more about my work, feel free to use the contact form on the site.
